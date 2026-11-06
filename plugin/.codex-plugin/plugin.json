@@ -1,0 +1,19 @@
+{
+  "name": "quiet-quota",
+  "version": "1.0.6",
+  "description": "安静的 Codex 额度组件，支持跟随桌面窗口、吸附与配色。",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "余量",
+    "shortDescription": "安静查看 Codex 额度与重置时间",
+    "brandColor": "#83ac96",
+    "defaultPrompt": [
+      "打开余量组件",
+      "查看我的 Codex 额度",
+      "打开余量设置"
+    ]
+  },
+  "license": "MIT",
+  "repository": "https://github.com/pvhgfm5w4z-collab/quiet-quota"
+}

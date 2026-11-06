@@ -1,2 +1,13 @@
-.env
 __pycache__/
+*.py[cod]
+state/
+preferences.json
+status.json
+command.json
+error.log
+plugin/.mcp.json
+.agents/
+*.lnk
+.env
+.env.*
+auth.json
